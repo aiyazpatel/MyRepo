@@ -20,4 +20,3 @@ void main()
                 printf("%d ",a[k]);
         }
 }
-
